@@ -12,4 +12,5 @@ package com.joyveb.test;
 public class Test {
 
 	private String test2 = "test2";
+	private String test3 = "test3";
 }
