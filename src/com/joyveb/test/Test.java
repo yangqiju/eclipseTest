@@ -12,4 +12,5 @@ package com.joyveb.test;
 public class Test {
 
 	private String test = "";
+	private String test2 = "this test ";
 }
