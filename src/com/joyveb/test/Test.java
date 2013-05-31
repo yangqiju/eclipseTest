@@ -14,5 +14,4 @@ public class Test {
 	private String test2 = "test2";
 	private String test3 = "test3";
 	private String test = "";
-	private String test2 = "this test ";
 }
