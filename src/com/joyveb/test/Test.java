@@ -11,5 +11,5 @@ package com.joyveb.test;
  */
 public class Test {
 
-	private String test = "test2";
+	private String test2 = "test2";
 }
